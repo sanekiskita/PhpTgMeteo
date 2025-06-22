@@ -58,3 +58,7 @@ docker compose up -d --build
 ## Логирование
 
 Логи сохраняются в директории `logs/`.
+
+## Пример работы
+![image](https://github.com/user-attachments/assets/f7a7a84f-1270-49c1-bb63-e7d856864245)
+
